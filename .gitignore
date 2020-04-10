@@ -1,0 +1,5 @@
+# ignore large files 
+.cache*
+.ipynb*
+*.csv
+core.*
